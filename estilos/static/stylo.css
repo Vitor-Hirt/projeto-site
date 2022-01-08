@@ -1,0 +1,19 @@
+*{
+font: normal 18pt arial;
+font-size: 16px;
+
+}
+
+body{
+    background-color: rgb(19, 119, 158);
+}
+
+main{
+
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 5px black; 
+    padding: 10px;
+
+}
